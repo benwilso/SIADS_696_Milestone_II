@@ -7,7 +7,7 @@ Using performance statistics such as strokes gained metrics, we trained several 
 
 We also performed dimensionality reduction (PCA, t-SNE) and K-means clustering to group golfers based on strokes gained data. These clusters effectively distinguished top performers and revealed stylistic similarities among players.
 
-Dataset: PGA Tour Golf Data (2015–2022) on Kaggle
+Dataset: [PGA Tour Golf Data (2015–2022) on Kaggle](https://www.kaggle.com/datasets/robikscube/pga-tour-golf-data-20152022)
 
-Authors: Benjamin Wilson, Peter Sklamberg, James Doherty
+Authors: Benjamin Wilson, Peter Sklamberg, James Doherty  
 Course: University of Michigan – SIADS 696 (Milestone II)
